@@ -1,4 +1,4 @@
-var banners = ["Do lixo ao luxo!", "Reaproveitar é aproveitar!"];
+var banners = ["Os melhores do Brasil!", "Qualidade e preço baixo!"];
 var banner = 0;
 
 function trocaBanner(){
